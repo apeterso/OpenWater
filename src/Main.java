@@ -24,8 +24,8 @@ public class Main {
     private static ArrayList<TempReading> temperatures = new ArrayList<>();
     private static ArrayList<Person> recipients = new ArrayList<>();
     // Username and password for the gmail account that will send out the emails
-    private static final String username = "igotdarighttemperature@gmail.com";
-    private static final String password = "carbonara420";
+    private static final String username = ""; //redacted
+    private static final String password = ""; //redacted
 
     public static void main(String[] args) throws AddressException,
             MessagingException {
